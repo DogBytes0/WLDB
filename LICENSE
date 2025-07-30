@@ -1,21 +1,17 @@
 MIT License
 
-Copyright (c) 2025 DogBytes0
+Hey there,
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+I, Zer0bytes, am the creator of the "Wordlist database" (WLDB) project. I'm making this tool available to you under the MIT License, which means you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. Pretty much, you can do whatever you want with it!
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+But here's the thing: I'm not responsible for how you use it. This program is intended for legitimate purposes, like pentesting and security research. If you decide to use it for something illegal or shady, that's on you. I'm not your mom, and I can't control what you do with it.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Also, just to be clear, the software is provided "as is," without any warranties. No guarantees, no promises. If it breaks, that's life. I'm not liable for any damages or losses that might come from using this software.
+
+Now, if you do decide to use, copy, modify, or distribute this software, please keep the copyright notice and this permission notice intact. It's only fair to give credit where credit is due.
+
+Thanks for using WLDB, and happy pentesting!
+
+Warm regards,
+Zer0bytes
+2025
