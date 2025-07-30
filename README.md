@@ -29,10 +29,10 @@ Want to add your own wordlist? Open an **Issue** or submit a **Pull Request**.
 
 ## 🚀 Features
 
-- ✅ **Search through a huge JSON-powered database of curated wordlists**
+- ✅ **Search through a huge GithubAPI-powered database of curated wordlists**
 - 🌐 **Instantly access download/view links for any wordlist**
 - 🧪 Built with **penetration testing, red teaming, and password auditing** in mind
-- ⚙️ CLI and GUI support (Tkinter GUI in development)
+- ⚙️ CLI and GUI support
 - 🎨 Optional light/dark theme switching in the GUI
 - 📦 Lightweight, no bloat – written in **Python**
 - 🛠️ Easily extensible, hackable, and contribution-friendly
